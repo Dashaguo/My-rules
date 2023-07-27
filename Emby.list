@@ -6,14 +6,15 @@ DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,odysseyplus
 DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmaooo.com
-DOMAIN-KEYWORD,xeton.dev
 
+#embyplus纸片人
+DOMAIN-SUFFIX,embyplus.org
 
 # > 流媒体emby-nexitally服务器
 DOMAIN-SUFFIX,emby.nexitally.com
 
 # > 流媒体emby-inntelecom服务器
-DOMAIN-SUFFIX,https://emby.immtel.com
+DOMAIN-SUFFIX,emby.immtel.com
 
 # > 流媒体emby-exflux服务器
 DOMAIN-SUFFIX,line.emby.men
