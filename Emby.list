@@ -7,8 +7,11 @@ DOMAIN-KEYWORD,odysseyplus
 DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmaooo.com
 
-#fac mjj
+#Fac mjj
 DOMAIN-SUFFIX,facmata.net
+
+#ACA emby
+DOMAIN-SUFFIX,aca.best
 
 #embyplus纸片人
 DOMAIN-SUFFIX,embyplus.org
@@ -24,27 +27,6 @@ DOMAIN-KEYWORD,charontv
 
 #emby-nexitally
 DOMAIN-SUFFIX,emby.nexitally.com
-
-#emby-inntelecom
-DOMAIN-SUFFIX,emby.immtel.com
-
-#emby-exflux
-DOMAIN-SUFFIX,line.emby.men
-
-#emby-flowercloud
-DOMAIN-SUFFIX,emby.flowercloud.yt
-
-#emby-maying
-DOMAIN-SUFFIX,emby.maying.club
-
-#emby-ytoo
-DOMAIN-SUFFIX,emby.ytoo.li
-
-#emby-w8ves
-DOMAIN-SUFFIX,embyserver.ga
-
-#emby-prpr
-DOMAIN-SUFFIX,emby.prprcloud.com
 
 #emby-Plus体验服
 DOMAIN-SUFFIX,emby.plusmedia.site
