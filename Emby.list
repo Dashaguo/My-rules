@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,media2.micu.hk
 DOMAIN-SUFFIX,media3.micu.hk
 DOMAIN-SUFFIX,media.micu.hk
 
+#AcEmby
+DOMAIN-SUFFIX,zox.show
+
 #Fac mjj
 DOMAIN-SUFFIX,facmata.net
 
