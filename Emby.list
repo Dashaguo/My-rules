@@ -15,36 +15,9 @@ DOMAIN-SUFFIX,media.micu.hk
 #AcEmby
 DOMAIN-SUFFIX,zox.show
 
-#Fac mjj
-DOMAIN-SUFFIX,facmata.net
-
-#ACA emby
-DOMAIN-SUFFIX,aca.best
-
 #embyplus纸片人
 DOMAIN-SUFFIX,embyplus.org
 
 #Pilipili
 DOMAIN-KEYWORD,pilipili
-
-#MisakaF-Emby
-DOMAIN-KEYWORD,misakaf
-
-#卡戎
-DOMAIN-KEYWORD,charontv
-
-#emby-nexitally
-DOMAIN-SUFFIX,emby.nexitally.com
-
-#emby-Plus体验服
-DOMAIN-SUFFIX,emby.plusmedia.site
-DOMAIN-SUFFIX,emby-cf.plusmedia.site 
-DOMAIN-SUFFIX,emby.xeton.dev
-DOMAIN-SUFFIX,jellyfin.xeton.dev
-DOMAIN-SUFFIX,movie.xeton.dev
-DOMAIN-SUFFIX,servers.xeton.dev
-
-#pornemby
-DOMAIN-SUFFIX,https://pornemby.club
-DOMAIN-SUFFIX,https://hk.pornemby.club
-DOMAIN-SUFFIX,https://us.pornemby.club
+DOMAIN-SUFFIX,pilipiliultra.com
